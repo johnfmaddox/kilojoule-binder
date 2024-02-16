@@ -1,3 +1,4 @@
 # kilojoule-demo-binder
 
-[![Binder](https://mybinder.org/v2/gh/johnfmaddox/kilojoule-demo-binder/HEAD)https://mybinder.org/v2/gh/johnfmaddox/kilojoule-demo-binder/HEAD]
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilejoule-binder/HEAD)
