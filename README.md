@@ -1,4 +1,4 @@
-# kilojoule-demo-binder
+# kilojoule-binder
 Current Stable Release: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilojoule-binder/HEAD?urlpath=git-pull?repo=https://github.com/johnfmaddox/kilojoule-notebooks)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilojoule/develurlpath=git-pull?repo=https://github.com/johnfmaddox/kilojoule-notebooks?labpath=Start+Here.ipynb)
