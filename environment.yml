@@ -2,13 +2,10 @@ name: kilojoule-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python = 3.11
   - numpy
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
-    - pandas
-    - matplotlib
-    - seaborn
-    - git+https://github.com/johnfmaddox/kilojoule
+    - kilojoule
