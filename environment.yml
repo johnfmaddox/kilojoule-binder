@@ -1,11 +1,11 @@
+# Last updated: 2/16/2024 23:40
 name: kilojoule-environment
 channels:
   - conda-forge
 dependencies:
   - python = 3.11
-  - numpy
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
-    - kilojoule
+    - git+https://github.com/johnfmaddox/kilojoule@devel
