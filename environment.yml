@@ -1,4 +1,4 @@
-# Last updated: 2/16/2024 23:40
+# Last updated: 2/18/2024 21:07
 name: kilojoule-environment
 channels:
   - conda-forge
@@ -8,4 +8,4 @@ dependencies:
   - pip:
     - nbgitpuller
     - sphinx-gallery
-    - git+https://github.com/johnfmaddox/kilojoule@devel
+    - kilojoule
