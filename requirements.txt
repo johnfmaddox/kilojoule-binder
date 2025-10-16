@@ -1,0 +1,3 @@
+nbgitpuller
+sphinx-gallery
+kilojoule
